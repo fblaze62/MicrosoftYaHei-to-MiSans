@@ -2,7 +2,7 @@
   <h1>Microsoft YaHei to MiSans</h1>
   
   <b>Bye Microsoft YaHei!</b><br>
-  <a href="https://github.com/fblaze62/Microsoft-MiHei-UI/releases/tag/download"><b>下载</b></a>
+  <a href="https://github.com/fblaze62/Microsoft-MiHei-UI/releases/tag/fonts-download"><b>下载</b></a>
 </div>
 
 将系统字体彻底替换为 MiSans，告别微软雅黑，使字体更加清晰。
