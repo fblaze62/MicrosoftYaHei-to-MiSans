@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Microsoft YiHei to MiSans</h1>
+  <h1>Microsoft YaHei to MiSans</h1>
   
   <b>Bye Microsoft YaHei!</b><br>
   <a href="https://github.com/fblaze62/Microsoft-MiHei-UI/releases/tag/download"><b>下载</b></a>
